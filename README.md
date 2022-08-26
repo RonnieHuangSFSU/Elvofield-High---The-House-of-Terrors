@@ -43,3 +43,11 @@ Secrets:
   - If you name yourself "Lance"and try to recruit him, the character that joins in is different. This is only an aesthetic difference as despite having different dialogue, they function the same as the partner they're a copy of. This similarily applies to naming yourself "Peggy" and "Ria".
 - Alternate Ending
   - If you make it to the end all on your own, you can walk all the way back to the entrance for an alternate ending that...makes no sense
+  
+Inspirations:
+- Doll
+  - The first boss fight in Mother/Earthbound Beginnings was against your sister's possessed doll. I thought I'd reference this boss as my game's encounter mechanic basically ripped off the one used in Mother/Earthbound Beginnings'. The attack and HP stat for the enemy is identical to the one in Mother/Earthbound Beginnings, with the exception being the defense (due to the stats for my game working differently)
+- Spider Queen
+  - On the morning this project was due, I was browing YouTube and a video for the game "Spider's Web" (developed by Teamsin3) showed up in my recommended. I was going to watch it right away but I realized that I had to finish programming this game by the end of the day. For whatever reason, the video couldn't popping in my head and at the same time I was struggling to think of more boss ideas (as from the start I planned a total of 7), so I decided to just put a spider queen as a boss and also created a generic spider enemy to go along with it
+- Poltergeist of the Mansion
+  - Although the idea itself wasn't inspired by anything in particular, the boss speaks IN ALL CAPS was inspired by the way Dialga and Palkia talk in Pokemon Mystery Dungeon Explorers of Time (plus its two other installments), a game I played a lot as a kid, but recently beaten for the first time (I was even listening to the soundtrack of the game while programming)
