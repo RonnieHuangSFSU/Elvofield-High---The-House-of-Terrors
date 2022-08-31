@@ -1,5 +1,5 @@
 # Elvofield-High-and-the-House-of-Terrors
-SPOILER WARNING (there's a guide in the actual game by typing "Help" outside of battle) and the game's ever too difficult, type "easy" outside of battle. The effects should be self explanitory
+SPOILER WARNING (there's a guide in the actual game by typing "Help" outside of battle) and if the game's ever too difficult, type "easy" outside of battle. The effects should be self explanitory
 
 This was created as a javascript project during my first year at college and was pretty fun to make. The characters used in this was going to be included in a series of other games...but I never got around to making them. Almost all of the code wasn't touched from when I submitted it, so you might encounter a couple glitches. There were only two actual changes.
 
